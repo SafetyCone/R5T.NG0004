@@ -12,4 +12,7 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/SafetyCone/R5T.NG0004.git</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Quartz" Version="3.5.0" />
+  </ItemGroup>
 </Project>
